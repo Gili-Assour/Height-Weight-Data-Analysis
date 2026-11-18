@@ -61,5 +61,6 @@ Gili Assour
 <img width="1020" height="806" alt="image" src="https://github.com/user-attachments/assets/aaeba67a-d569-44d9-bd09-cf6d103f7d0d" />
 
 ### Height and Weight Distributions
-![Height Distribution](images/height_distribution.png)
-![Weight Distribution](images/weight_distribution.png)
+<img width="1056" height="786" alt="image" src="https://github.com/user-attachments/assets/8c7167e0-c269-462c-8d34-e19ac53901a0" />
+<img width="1020" height="778" alt="image" src="https://github.com/user-attachments/assets/a6f75304-fdd3-43f8-924c-f509e3587fd6" />
+
