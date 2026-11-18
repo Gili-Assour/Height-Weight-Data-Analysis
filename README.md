@@ -55,6 +55,11 @@ The program generates visualizations and analysis results, including:
 
 Gili Assour
 
+
+### Distribution of Sample Means
 <img width="1048" height="778" alt="image" src="https://github.com/user-attachments/assets/2b32ee27-610b-4e41-b922-c445fcbb2366" />
 <img width="1020" height="806" alt="image" src="https://github.com/user-attachments/assets/aaeba67a-d569-44d9-bd09-cf6d103f7d0d" />
 
+### Height and Weight Distributions
+![Height Distribution](images/height_distribution.png)
+![Weight Distribution](images/weight_distribution.png)
