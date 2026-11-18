@@ -54,3 +54,5 @@ The program generates visualizations and analysis results, including:
 ## Author
 
 Gili Assour
+
+<img width="1048" height="778" alt="image" src="https://github.com/user-attachments/assets/2b32ee27-610b-4e41-b922-c445fcbb2366" />
